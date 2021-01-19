@@ -2,7 +2,7 @@
 
 I am Jeivardan a student from Coimbatore, India.
 
-## I am currently learning. :) 
+## I am currently learning :) 
 
 <div>
   <a href='https://www.rust-lang.org/' target='_blank' rel='noopener' rel='noreferrer'>
