@@ -1,6 +1,6 @@
 ## Hola! 👋 
 
-I am Jeivardan a student from Coimbatore, India.
+
 
 ## I am currently learning :) 
 
